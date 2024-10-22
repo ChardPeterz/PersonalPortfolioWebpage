@@ -1,0 +1,22 @@
+{
+  "name": "personalportfoliowebpage",
+  "version": "1.0.0",
+  "description": "My personal Portfolio",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChardPeterz/PersonalPortfolioWebpage.git"
+  },
+  "author": "Chard Peter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChardPeterz/PersonalPortfolioWebpage/issues"
+  },
+  "homepage": "https://github.com/ChardPeterz/PersonalPortfolioWebpage#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
