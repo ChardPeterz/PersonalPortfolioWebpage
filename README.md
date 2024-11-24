@@ -1,4 +1,4 @@
-<h1 align="center">PersonalPortfolioWebpage</h1>
+<h1 align="center">PersonalPortfolioWebpage.</h1>
 This is my personal portfolio webpage
 
 <h2 align="center"> Future Steps/Improvements</h2>
